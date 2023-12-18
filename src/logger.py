@@ -14,5 +14,5 @@ logging.basicConfig(
     format= "[%(asctime)s]%(lineno)d %(name)s - %(levelname)s - %(mesage)s",
     level = logging.INFO,
 )
-if __name__ == '__main_-':
-    logging.info("kogging has started")
+if __name__ == '__main_':
+    logging.info("logging has started")
